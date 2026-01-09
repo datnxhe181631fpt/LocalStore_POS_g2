@@ -1,1 +1,0 @@
-# LocalStore_POS_g2
